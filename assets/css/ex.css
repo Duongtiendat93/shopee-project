@@ -1,0 +1,10 @@
+body{
+    display: flex;
+}
+span{
+    margin: auto;
+    
+    border-width: 0px 18px 4px ;
+    border-style: solid;
+    border-color: transparent rgba(255,212,36,0.7) transparent rgba(255,212,36,0.7);
+}
